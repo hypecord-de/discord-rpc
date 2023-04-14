@@ -1,3 +1,5 @@
+credit to: https://github.com/maximmax42/Discord-CustomRP
+
 # Schritt 1
 downloade CustomRP.1.17.5.exe ([klicke hier](https://github.com/hypecord-de/discord-rpc/raw/main/CustomRP.1.17.5.exe))
 
