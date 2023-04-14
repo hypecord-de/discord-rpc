@@ -6,8 +6,8 @@ Einstellungen übernehmen wie im Bild:<br>
 <img src="https://github.com/hypecord-de/discord-rpc/blob/main/image2.png"></img>
 
 # Schritt 3
-[klicke hier](https://raw.githubusercontent.com/hypecord-de/discord-rpc/main/config.crp](https://raw.githubusercontent.com/hypecord-de/discord-rpc/main/config.crp?token=GHSAT0AAAAAACA4RQRGIF7CNSS625K3OTMIZBY2BHQ)
-
+[klicke hier](https://github.com/hypecord-de/discord-rpc/blob/main/config.crp)
+drücke auf `Raw`
 drücke `STRG + S` um die Datei zu speichern.
 
 # Schritt 4
