@@ -1,5 +1,5 @@
 # Schritt 1
-Lade downloade CustomRP.1.17.5.exe ([klicke hier](https://github.com/hypecord-de/discord-rpc/raw/main/CustomRP.1.17.5.exe))
+downloade CustomRP.1.17.5.exe ([klicke hier](https://github.com/hypecord-de/discord-rpc/raw/main/CustomRP.1.17.5.exe))
 
 # Schritt 2
 Einstellungen übernehmen wie im Bild:<br>
