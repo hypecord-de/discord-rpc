@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>1093932606141239316</ID>
+  <Details>┌┃🔎┃Moderner Server</Details>
+  <State>└┃📛┃in Wartungen</State>
+  <PartySize>0</PartySize>
+  <PartyMax>0</PartyMax>
+  <Timestamps>0</Timestamps>
+  <CustomTimestamp>2023-01-01T00:00:00</CustomTimestamp>
+  <LargeKey>hypecord</LargeKey>
+  <LargeText>Unser Server-Icon</LargeText>
+  <SmallKey>cordy</SmallKey>
+  <SmallText>Unser System-Bot</SmallText>
+  <Button1Text>➕┃ Community beitreten</Button1Text>
+  <Button1URL>https://discord.gg/3PtzYqbcNF</Button1URL>
+  <Button2Text />
+  <Button2URL />
+</Preset>
