@@ -10,7 +10,7 @@
   <LargeKey>hypecord</LargeKey>
   <LargeText>Unser Server-Icon</LargeText>
   <SmallKey>cordy</SmallKey>
-  <SmallText>Unser System-Bot</SmallText>
+  <SmallText>cordy v0.2.0</SmallText>
   <Button1Text>➕┃ Community beitreten</Button1Text>
   <Button1URL>https://discord.gg/3PtzYqbcNF</Button1URL>
   <Button2Text />
