@@ -1,4 +1,4 @@
-Credit to [@maximmax4](https://github.com/maximmax42/Discord-CustomRP)
+Credit to [@maximmax42](https://github.com/maximmax42/Discord-CustomRP)
 
 # Schritt 1
 Lade CustomRP.1.17.5.exe [hier](https://github.com/maximmax42/Discord-CustomRP/releases/download/1.17.5/CustomRP.1.17.5.exe) herunter
