@@ -7,9 +7,9 @@
   <PartyMax>0</PartyMax>
   <Timestamps>0</Timestamps>
   <CustomTimestamp>2023-01-01T00:00:00</CustomTimestamp>
-  <LargeKey>hypecord</LargeKey>
-  <LargeText>Unser Server-Logo</LargeText>
-  <SmallKey>cordy</SmallKey>
+  <LargeKey>hc_icon</LargeKey>
+  <LargeText />
+  <SmallKey>hc_bot</SmallKey>
   <SmallText>cordy v0.2.0</SmallText>
   <Button1Text>➕┃ Community beitreten</Button1Text>
   <Button1URL>https://discord.gg/3PtzYqbcNF</Button1URL>
